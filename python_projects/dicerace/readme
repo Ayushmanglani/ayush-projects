@@ -1,0 +1,5 @@
+Dice-race game can be played by Two Users.
+The game start by entering player names and setting the race finishing value.
+In this for in each cycle user play, computer decides which user get chance to throw the dice.
+The output from dice is added to that users value after every move.
+The user whose score reaches the finishing value, wins the game.
