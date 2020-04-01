@@ -1,6 +1,6 @@
 import random
 
-r = random.randint(1,21)
+r = random.randint(1,51)
 print("Guess the number choosen by System")
 x = int(input())
 k = 0
