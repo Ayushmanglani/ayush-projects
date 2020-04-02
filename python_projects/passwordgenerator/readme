@@ -1,0 +1,4 @@
+Passwordgenerator is a Random Password generating program.
+The password should be a minimum of 6 characters long.
+It ask the user how many letters, numbers and special characters they want in their password. 
+It then generates a password mix of upper and lowercase letters, as well as numbers and symbols. 
