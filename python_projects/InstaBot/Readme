@@ -1,0 +1,19 @@
+This is an Instagram bot created Using Selenium webdriver and python.
+
+prerequisite to run this code:
+1. Install Selenium Web driver in Your System
+2. Install geckodriver
+3. Update Your Firefox to Latest Version
+
+With this Bot,
+1. Login in into your Instagram Account
+2. Mention username of person whose photo You want to open
+3. Enter the Photo No. from Recent
+4. Now you can perform multiple actions together like,
+    a. Liking the Photo
+    b. Commenting on Photo
+    c. Liking all the Commments in a photo
+    d. Reading all the comments of a photo on CMD
+    e. Getting all the comments of a photo in a Excel file, which can be used for analysis as well
+
+ 
